@@ -1,9 +1,4 @@
-# DE_workshop
-For detail about workshop
-
-## Workshop 1_Data Collection and Data Cleansing
-This workshop is about how to ingest data from
-
-1. Connecting database (mysql) - to get "employee" data
-2. Get from Rest API - API "Conversion_rate" converts US dollars to Thai baht for salary of employee data
-3. Finally, Save it to CSV file.
+# DATA ENGINEER WORKSHOP  
+--------------------------
+## Workshop 1_Data Collection with python
+Use `PyMySQL` Package to connect the `MySQL` database to `Python` for the purpose of data collection.Then, in order to make it simpler for users and improve the aesthetics of the tables, we changed it to `Pandas`. The tables (Employees & Jobs) were then joined and used the 'Requests' package to obtain data from `REST APIs` in addition to a standard MySQL database. Finally, Saved the tables as a `CSV file`.
