@@ -13,3 +13,4 @@ To create Pipeline to perform the process by set DAG ( Directed Acyclic Graph) a
 To load the data for workshop4 to `BigQuery` by using pipeline with Airflow.
 ## Workshop 6_Data Visualization (Looker studio)
 Create data visualization from workshop5 data to analyze by BA or DA or DS next.
+[live demo click!](https://lookerstudio.google.com/reporting/8ab84d7a-383f-4ebe-9e0f-5852a090fd7e)
